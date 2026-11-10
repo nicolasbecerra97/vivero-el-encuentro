@@ -1,0 +1,1 @@
+<?php echo "<h1>Vivero El Encuentro - Sprint 0</h1><p>Servidor funcionando. PHP " . phpversion() . "</p>"; ?>
